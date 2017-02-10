@@ -108,7 +108,7 @@ export const About = React.createClass({
                     </div>
                     <div>
                         <h3 style={styles.title}>  Closing the Borders </h3>
-                        <p> The new Exectuive Order has thrown us into turmoil.
+                        <p> The new Executive Order has thrown us into turmoil.
                             Whether you agree with the order, are confused by it, or are think our government
                             ought to be more thoughtful in its actions, now is the time to make your opinion known by
                             <i> calling your congressman!</i></p>
