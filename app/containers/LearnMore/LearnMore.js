@@ -101,7 +101,6 @@ export const LearnMore = React.createClass({
 
                         {/*Add Red Balloon challenge note*/}
 
-                        <p>Remember the challenge! 50 calls in 50 states. Multiplied by all of us.</p>
                     </div>
                     <div>
                         <Link to={"/"}><button className={"pt-button pt-intent-primary pt-fill"}>Join Now</button></Link>
