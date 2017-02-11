@@ -25,7 +25,7 @@ export const HowToPlay  = React.createClass({
 						Join the challenge by
 						filling in your details. This
 						way we can tell you who
-						your local senators are.
+						your Representative and Senators are.
 					</div>
 				</Link>
 
@@ -42,7 +42,7 @@ export const HowToPlay  = React.createClass({
 					<img style={styles.sectionImage} src={"static/Icon3.png"} />
 					<div style={styles.sectionText}>
 						<div style={styles.sectionTitle}>Spread your influence</div>
-						Share the link with your friends in other states, when someone in your network does the same, you get the points.
+						Share the link with your friends in other states. When someone in your network does the same, you get the points.
 					</div>
 				</Link>
 				<Link to={'/leaderboard'} style={styles.howToPlaySection} className={'pt-card pt-elevation-3'}>
