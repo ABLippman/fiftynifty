@@ -25,7 +25,7 @@ export const HowToPlay  = React.createClass({
 						Join the challenge by
 						filling in your details. This
 						way we can tell you who
-						your local senators are.
+						your Representative and Senators are.
 					</div>
 				</Link>
 
